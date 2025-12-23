@@ -1,0 +1,11 @@
+@import url("https://cdn.jsdelivr.net/gh/elte-fi/www-assets@19.10.16/styles/mdss.min.css");
+
+table tr th {
+  font-weight: bold;
+}
+td.lowest {
+  background-color: lightgreen;
+}
+td.largest {
+  background-color: lightcoral;
+}
